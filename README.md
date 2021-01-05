@@ -1,6 +1,6 @@
 # Spam-Message-Detector
 
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.7.6](https://img.shields.io/badge/Python-3.7-violet.svg) ![Library](https://img.shields.io/badge/Library-NLTK%3.4.5-orange)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.7.6](https://img.shields.io/badge/Python-3.7-violet.svg) ![Library](https://img.shields.io/badge/Library-NLTK%203.4.5-orange)
 
 • Dataset: Dataset is provided in the repository.
 
